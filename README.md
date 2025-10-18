@@ -1,2 +1,3 @@
-# UniPlant-CG
-A Unified Multi-Task Framework for Out-of-domain Plant Disease Classification and Severity Grading via Unlabeled Domain Adaptation
+Official implementation of “A Unified Multi-Task Framework for Out-of-domain Plant Disease Classification and Severity Grading via Unlabeled Domain Adaptation”.
+---
+Comming soon.....
